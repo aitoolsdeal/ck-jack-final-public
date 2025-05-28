@@ -1,0 +1,6 @@
+{
+    "Stripe": true,
+    "Installer": true,
+    "GoogleAuth": true,
+    "Visitor": true
+}

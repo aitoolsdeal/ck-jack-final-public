@@ -1,0 +1,11 @@
+{
+    "name": "GoogleAuth",
+    "alias": "googleauth",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\GoogleAuth\\Providers\\GoogleAuthServiceProvider"
+    ],
+    "files": []
+}
